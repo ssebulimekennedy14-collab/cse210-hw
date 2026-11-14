@@ -1,0 +1,6 @@
+# Ignore generated .NET files
+bin/
+obj/
+
+# Ignore Visual Studio files
+.vs/
